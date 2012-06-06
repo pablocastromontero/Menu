@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MenuActivity!</string>
+    <string name="app_name">Menu</string>
+    <string name="help_activity_title">Actividad Ayuda</string>
+    <string name="menu_add_log_text">Agregar</string>
+    <string name="menu_remove_log_text">Eiminar</string>
+	<string name="menu_help_log_text">Ayuda</string>
+	<string name="remove_text">Dió click en remover</string>
+	<string name="ticker_text">Dió click en Agregar!!!</string>
+	<string name="content_title">Agregar</string>
+	<string name="content_description">Aplicación Menú</string>
+
+</resources>
